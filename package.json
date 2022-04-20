@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
-    "chokidar": "^3.5.1"
+    "chokidar": "^3.5.1",
+    "netlify-cli": "^10.0.0"
   }
 }
