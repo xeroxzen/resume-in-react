@@ -1,22 +1,21 @@
 {
   "main": {
-    "name":"Google Jr Resume",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name":"Andile Jaden Mbele",
+    "description":"I am a highly self-driven software engineer. I use code to solve problems. I hope to some day build my own successful start-up to solve some of Africa's most pertinent problems spanning energy distribution, finance and social inequality",
+    "image":"andile.jpg",
+    "bio":"First and foremost I am a problem solver. My prefered approach is code",
+    "contactmessage":"Hello there.",
     "email": "andilembele020@gmail.com",
     "phone": "+263 71 618 9728",
     "github":"https://github.com/xeroxzen/",
-    "project":"https://github.com/xeroxzen/resume-in-react",
+    "project":"https://github.com/xeroxzen/",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"L Street",
+      "city":"Bulawayo",
+      "country":"Zimbabwe"
     },
     "website": "https://medium.com/@andilembele",
-    "resumedownload":"http://andilembele.com",
+    "resumedownload":"https://drive.google.com/file/d/1SCnrtdrsQuc3veEFO0FxSlsbjUk5wGva/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -46,33 +45,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"In my 4 years of experience I have used many tools depending on the problem at hand. I have varying degrees of experience with different technologies and stacks.",
     "education":[
       {
         "school":"Bulawayo Polytechnic",
         "degree":"Diploma in Information Technology",
         "graduated":"April 2022",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"My 4-year College experience was one of my best years. My classes comprised of Software Engineering, Data Structures and Algorithms, Databases, Data Communication, Networks, Mathematics & Statistics, Computer Quantitative Methods, Object Oriented Programming, Cybersecurity & Ethics and Project Management"
       },
       {
         "school":"Emzini We Code Bootcamp",
         "degree":"Introduction to Computer Science and Programming",
         "graduated":"August 2019",
-        "description":"This remains the highlight of my career in software development. I met numerous individuals doing great things and we have remained in touch and collaborating on multiple projects."
+        "description":"This remains the highlight of my career in software development. I met numerous individuals doing great things and we have remained in touch and collaborating on multiple projects.The curriculum comprised of Computer program Interpretation, Structured Types of Data, Dynamic Programming, Algorithmic Complexity, Higher Order Functions, Recursive Programming and Object Oriented Programming"
       }
     ],
     "work":[
       {
-        "company":"First Source Enterprises",
+        "company":"First Source Technology",
         "title":"Lead Software Developer ",
         "years":"March 2020 - September 2021",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"I started off as a software engineeering intern and I was promoted to Lead Software Developer after 9 months for having proved myself as reliable, dependable and skilled."
       },
       {
         "company":"Emzini We Code",
         "title":"Teaching Assistant",
         "years":"March 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"After completing the 6 week coding bootcamp with Emzini We Code, I proved myself as a skillful programmer and therefore I was recruited as a Teaching Assistant where I work alongside some of the smartest people in my cohort who study in big name schools such as Stanford University, Northwestern University, Brynmwr University, MIT and Alabama State University."
       }
     ],
     "skills":[
@@ -81,12 +80,16 @@
         "level":"90%"
       },
       {
+        "name":"NodeJS",
+        "level":"82%"
+      },
+      {
         "name":"VueJs",
         "level":"55%"
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"88%"
       },
       {
         "name":"CSS",
@@ -107,82 +110,62 @@
       {
         "name":"Java",
         "level":"60%"
-      }
+    },
+    {
+      "name":"Visual Basic",
+      "level":"70%"
+    }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Genuine Fake",
+        "category":"Python testing module",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://pypi.org/project/Genuine-fake/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Pycountry code",
+        "category":"Python module for getting any country's telephone code",
         "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://pypi.org/project/pycountrycode/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Patient Information Management System",
+        "category":"Website I built for managing patient data",
+        "image":"healthcare.jpg",
+        "url":"http://prohealthnet.herokuapp.com/accounts/login/?next=/HealthNet/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Coach Ticket Booking System",
+        "category":"NodeJS based Conversational AI",
+        "image":"bus.jfif",
+        "url":"https://t.me/ExtraCityBot"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Victoria Falls Mascot",
+        "category":"A Dashboard for the City of Victoria Falls to manage the data coming through the Medical centered Conversational AI I built",
+        "image":"dashboard.webp",
+        "url":"https://vicfallsmascot.netlify.app/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Extracity Luxury Coaches",
+        "category":"Admin Dashboard for a bus company",
+        "image":"chatbots.png",
+        "url":"https://extracityluxury.co.zw/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Virtual Assistant Pharmacist",
+        "category":"Medical Conversational AI that got me a Distinction in my college software project.",
+        "image":"pharmacist.jpg",
+        "url":"https://t.me/virtual_pharmacist_bot"
+      },
+      {
+        "title":"Dream Catcher",
+        "category":"Website Diary to capture and store all my dreams",
+        "image":"dream_catcher.jpg",
+        "url":"https://github.com/xeroxzen/dream-catcher"
       }
     ]
   }
