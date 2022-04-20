@@ -16,11 +16,10 @@ class Footer extends Component {
     });
 
     const current = new Date();
-    const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
+    // const date = `${current.getDate()}/${current.getMonth()+1}/${current.getFullYear()}`;
     const year = current.getFullYear();
     // if minutes is less than 10 minutes add 0
-
-    const time = `${current.getHours()}:${current.getMinutes()}`
+    // const time = `${current.getHours()}:${current.getMinutes()}`
 
     return (
       <footer>
@@ -31,8 +30,6 @@ class Footer extends Component {
 
               <ul className="copyright">
                 <li>&copy; Copyright {year} Andile Jaden Mbele</li>
-                <p>Current time: {time}</p>
-
               </ul>
             </div>
           </Fade>
