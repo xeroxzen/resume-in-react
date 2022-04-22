@@ -243,8 +243,9 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
-   /* background: #ebeeee; */
+   /* background: #fff; */
+   /* opacity:0.9; */
+   background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -284,6 +285,7 @@ ul#nav li.current a { color: #fe6928; }
    margin-right: 5px;
    margin-left: 5px;
 }
+
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
