@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Andile Jaden Mbele",
-    "description":"I am a highly self-driven software engineer. I use code to solve problems. I hope to some day build my own successful start-up to solve some of Africa's most pertinent problems spanning energy distribution, finance and social inequality",
+    "description":"First and foremost I am a problem solver. I am a self-starter and a self-driven software engineer. I hope to some day build my own successful start-up to solve some of Africa's and World's most pertinent problems spanning energy distribution, finance and social inequality.",
 
     "image":"andile.jpg",
-    "bio":"First and foremost I am a problem solver. My prefered approach is code",
+    "bio":"Programmer | Software Engineer | Geek | Ambivert | Researcher | Non-Linear Thinker | Health & Fitness Fanatic | I love engineering, code and rockets.",
     "contactmessage":"Hello there.",
     "email": "andilembele020@gmail.com",
     "phone": "+263 71 618 9728",
@@ -52,13 +52,13 @@
         "school":"Bulawayo Polytechnic",
         "degree":"Diploma in Information Technology",
         "graduated":"April 2022",
-        "description":"My 4-year College experience was one of my best years. My classes comprised of Software Engineering, Data Structures and Algorithms, Databases, Data Communication, Networks, Mathematics & Statistics, Computer Quantitative Methods, Object Oriented Programming, Cybersecurity & Ethics and Project Management"
+        "description":"My 4 years of College were one of my best years in both in terms of growth and exposure. My college classes comprised of Software Engineering, Data Structures and Algorithms, Databases, Data Communication, Networks, Mathematics & Statistics, Computer Quantitative Methods, Object Oriented Programming, Cybersecurity & Ethics and Project Management"
       },
       {
         "school":"Emzini We Code Bootcamp",
         "degree":"Introduction to Computer Science and Programming",
         "graduated":"August 2019",
-        "description":"This remains the highlight of my career in software development. I met numerous individuals doing great things and we have remained in touch and collaborating on multiple projects.The curriculum comprised of Computer program Interpretation, Structured Types of Data, Dynamic Programming, Algorithmic Complexity, Higher Order Functions, Recursive Programming and Object Oriented Programming"
+        "description":"This remains the highlight of my career in software development. I met numerous individuals who are doing great things and whom we have remained in touch and collaborating on multiple projects.The curriculum comprised of Computer program Interpretation, Structured Types of Data, Dynamic Programming, Algorithmic Complexity, Algorithmic  Thinking, Higher Order Functions, Recursive Programming and Object Oriented Programming"
       }
     ],
     "work":[
@@ -66,13 +66,13 @@
         "company":"First Source Technology",
         "title":"Lead Software Developer ",
         "years":"March 2020 - September 2021",
-        "description":"I started off as a software engineeering intern and I was promoted to Lead Software Developer after 9 months for having proved myself as reliable, dependable and skilled."
+        "description":"I started off as a software engineering intern and I was promoted to Lead Software Developer after 9 months for having proved myself as reliable, dependable and skilled. I led a team of three developers tasked with various application development. We worked with several tools and technology stacks encompassing JavaScript, React, Postman, Dialogflow, Nodejs to name just a few."
       },
       {
         "company":"Emzini We Code",
         "title":"Teaching Assistant",
         "years":"March 2020 - Present",
-        "description":"After completing the 6 week coding bootcamp with Emzini We Code, I proved myself as a skillful programmer and therefore I was recruited as a Teaching Assistant where I work alongside some of the smartest people in my cohort who study in big name schools such as Stanford University, Northwestern University, Brynmwr University, MIT and Alabama State University."
+        "description":"After completing the 6 week coding bootcamp with Emzini We Code, I proved myself as a skillful programmer and therefore I was recruited as a Teaching Assistant where I work alongside some of the smartest people in my cohort who study in big name schools such as Stanford University, Northwestern University, Bryn Mawr University, MIT and Alabama State University."
       }
     ],
     "skills":[
