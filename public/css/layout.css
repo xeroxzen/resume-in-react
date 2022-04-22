@@ -16,6 +16,19 @@
    h. Contact Section
    i. Footer
 
+   "color"
+    "ball"
+    "lines"
+    "thick"
+    "circle"
+    "cobweb"
+    "polygon"
+    "square"
+    "tadpole"
+    "fountain"
+    "random"
+    "custom"
+
 ===================================================================== */
 
 /* ------------------------------------------------------------------ */
@@ -33,7 +46,6 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   
    text-align: center;
    overflow: hidden;
 }
@@ -232,6 +244,7 @@ ul#nav li.current a { color: #fe6928; }
 
 #resume {
    background: #fff;
+   /* background: #ebeeee; */
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -428,7 +441,7 @@ ul#nav li.current a { color: #fe6928; }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   background: transparent;
    overflow: hidden;
    position: relative;
 
@@ -1011,7 +1024,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .social .btn{
    padding-left: 30px;
-   padding-right: 30px; 
+   padding-right: 30px;
 }
 .social .btn i{
    margin-right: 15px;

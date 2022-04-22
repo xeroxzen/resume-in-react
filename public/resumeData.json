@@ -2,7 +2,7 @@
   "main": {
     "name":"Andile Jaden Mbele",
     "description":"I am a highly self-driven software engineer. I use code to solve problems. I hope to some day build my own successful start-up to solve some of Africa's most pertinent problems spanning energy distribution, finance and social inequality",
-    
+
     "image":"andile.jpg",
     "bio":"First and foremost I am a problem solver. My prefered approach is code",
     "contactmessage":"Hello there.",
@@ -141,7 +141,7 @@
       {
         "title":"Coach Ticket Booking System",
         "category":"NodeJS based Conversational AI",
-        "image":"bus.jfif",
+        "image":"busbud.webp",
         "url":"https://t.me/ExtraCityBot"
       },
       {
