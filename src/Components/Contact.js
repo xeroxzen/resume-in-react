@@ -6,14 +6,12 @@ class Contact extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    // const street = this.props.data.address.street;
     const city = this.props.data.address.city;
     const country = this.props.data.address.country;
-    // const zip = this.props.data.address.zip;
     const email = this.props.data.email;
     const phone = this.props.data.phone;
     const whatsapp = this.props.data.whatsapp;
-    const message = this.props.data.contactmessage;
+    const message = this.props.data.contactMessage;
 
     return (
       <section id="contact">
@@ -117,7 +115,7 @@ class Contact extends Component {
                   <br />
                   <span>{email}</span>
                   <br />
-                  <span>{phone}</span>
+                  <span>{phone} (Calls)</span>
                   <br />
                   <span>{whatsapp} (WhatsApp)</span>
                 </p>

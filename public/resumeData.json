@@ -1,172 +1,193 @@
 {
   "main": {
-    "name":"Andile Jaden Mbele",
-    "description":"First and foremost I am a problem solver. I am a self-starter and a self-driven software engineer. I hope to some day build my own successful start-up to solve some of Africa's and World's most pertinent problems spanning energy distribution, finance and social inequality.",
-
-    "image":"andile.jpg",
-    "bio":"Programmer | Software Engineer | Geek | Ambivert | Researcher | Non-Linear Thinker | Health & Fitness Fanatic | I love engineering, code and rockets.",
-    "contactmessage":"Hello there.",
+    "name": "Andile Jaden Mbele",
+    "description": "First and foremost I am a problem solver. I am a self-starter and a self-driven software engineer. I hope to some day build my own successful start-up to solve some of Africa's and World's most pertinent problems spanning energy distribution, finance and social inequality.",
+    "image": "andile-jaden.jpg",
+    "bio": "Programmer | Software Engineer | Geek | Ambivert | Researcher | Non-Linear Thinker | Health & Fitness Fanatic | I love engineering, code and rockets.",
+    "contactMessage": "Hello there.",
     "email": "andilembele020@gmail.com",
     "phone": "+263 71 618 9728",
-    "whatsapp":"+263 77 861 3888",
-    "github":"https://github.com/xeroxzen/",
-    "project":"https://github.com/xeroxzen/",
-    "address":{
-      "city":"Bulawayo",
-      "country":"Zimbabwe"
+    "whatsapp": "+263 77 861 3888",
+    "github": "https://github.com/xeroxzen/",
+    "project": "https://github.com/xeroxzen/",
+    "address": {
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
     },
     "website": "https://medium.com/@andilembele",
-    "resumedownload":"https://drive.google.com/file/d/1SCnrtdrsQuc3veEFO0FxSlsbjUk5wGva/view?usp=sharing",
-    "social":[
+    "resumeDownload": "https://docs.google.com/document/d/1TlBZ-cSqbM5dQX8ovrpDQeOITpyT1Fvl/edit?usp=sharing&ouid=113681453149468387401&rtpof=true&sd=true",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/andilejaden.mbele/",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/andilejaden.mbele/",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/andilejaden",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/andilejaden",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/andile-jaden-mbele/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andile-jaden-mbele/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/andilejaden/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/andilejaden/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/xeroxzen/",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/xeroxzen/",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"In my 4 years of experience I have used many tools depending on the problem at hand. I have varying degrees of experience with different technologies and stacks.",
-    "education":[
+  "resume": {
+    "skillMessage": "In my 4 years of experience I have used many tools depending on the problem at hand. I have varying degrees of experience with different technologies and stacks.",
+    "education": [
       {
-        "school":"Bulawayo Polytechnic",
-        "degree":"Diploma in Information Technology",
-        "graduated":"April 2022",
-        "description":"My 4 years of College were one of my best years in both in terms of growth and exposure. My college classes comprised of Software Engineering, Data Structures and Algorithms, Databases, Data Communication, Networks, Mathematics & Statistics, Computer Quantitative Methods, Object Oriented Programming, Cybersecurity & Ethics and Project Management"
+        "school": "Bulawayo Polytechnic",
+        "degree": "Diploma in Information Technology",
+        "graduated": "April 2022",
+        "description": "My 4 years of College were one of my best years in both in terms of growth and exposure. My college classes comprised of Software Engineering, Data Structures and Algorithms, Databases, Data Communication, Networks, Mathematics & Statistics, Computer Quantitative Methods, Object Oriented Programming, Cybersecurity & Ethics and Project Management"
       },
       {
-        "school":"Emzini We Code Bootcamp",
-        "degree":"Introduction to Computer Science and Programming",
-        "graduated":"August 2019",
-        "description":"This remains the highlight of my career in software development. I met numerous individuals who are doing great things and whom we have remained in touch and collaborating on multiple projects.The curriculum comprised of Computer program Interpretation, Structured Types of Data, Dynamic Programming, Algorithmic Complexity, Algorithmic  Thinking, Higher Order Functions, Recursive Programming and Object Oriented Programming"
+        "school": "Emzini We Code Boot camp",
+        "degree": "Introduction to Computer Science and Programming",
+        "graduated": "August 2019",
+        "description": "This remains the highlight of my career in software development. I met numerous individuals who are doing great things and whom we have remained in touch and collaborating on multiple projects.The curriculum comprised of Computer program Interpretation, Structured Types of Data, Dynamic Programming, Algorithmic Complexity, Algorithmic  Thinking, Higher Order Functions, Recursive Programming and Object Oriented Programming"
       }
     ],
-    "work":[
+    "testimonials": [
       {
-        "company":"First Source Technology",
-        "title":"Lead Software Developer ",
-        "years":"March 2020 - September 2021",
-        "description":"I started off as a software engineering intern and I was promoted to Lead Software Developer after 9 months for having proved myself as reliable, dependable and skilled. I led a team of three developers tasked with various application development. We worked with several tools and technology stacks encompassing JavaScript, React, Postman, Dialogflow, Nodejs to name just a few."
+        "client": "Dryback Technology",
+        "feedback": "You wrote good code on the Dabane project 🔥👍🏻 Good come back there"
       },
       {
-        "company":"Emzini We Code",
-        "title":"Teaching Assistant",
-        "years":"March 2020 - Present",
-        "description":"After completing the 6 week coding bootcamp with Emzini We Code, I proved myself as a skillful programmer and therefore I was recruited as a Teaching Assistant where I work alongside some of the smartest people in my cohort who study in big name schools such as Stanford University, Northwestern University, Bryn Mawr University, MIT and Alabama State University."
+        "client": "Emzini we Code",
+        "feedback": "Great engineering"
       }
     ],
-    "skills":[
+    "work": [
       {
-        "name":"Python",
-        "level":"90%"
+        "company": "QuStack Inc.",
+        "title": "Founder & CEO",
+        "years": "June 2022 - Present",
+        "description": "It has always been my dream to start my own company. For a very long time I have been procrastinating on doing so, until now. I recently pitched a product we are building to investors and we have secured a funding round. I am currently working on the product's development, and possibly have a beta version of the product ready for public testing before year end."
       },
       {
-        "name":"NodeJS",
-        "level":"82%"
+        "company": "Dryback Technology",
+        "title": "Fullstack Software Developer ",
+        "years": "May 2022 - June 2022",
+        "description": "I was brought on board as a fullstack developer to work on the extension of a Django Rest API for one of Zimbabwe's biggest medical AID companies, MASCA. I applied my expertise in the development of the four frontend applications for MASCA. My day-to-day tasks involved writing code for the several applications in development, I also wrote documentation and application architecture."
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "company": "First Source Technology",
+        "title": "Lead Software Developer ",
+        "years": "March 2020 - September 2021",
+        "description": "I started off as a software engineering intern and I was promoted to Lead Software Developer after 9 months for having proved myself as reliable, dependable and skilled. I led a team of three developers tasked with various application development. We worked with several tools and technology stacks encompassing JavaScript, React, Postman, Dialogflow, Nodejs to name just a few."
       },
       {
-        "name":"ReactJs",
-        "level":"88%"
+        "company": "Emzini We Code",
+        "title": "Teaching Assistant",
+        "years": "March 2020 - Present",
+        "description": "After completing the 6 week coding boot camp with Emzini We Code, I proved myself as a skillful programmer and therefore I was recruited as a Teaching Assistant where I work alongside some of the smartest people in my cohort who study in big name schools such as Stanford University, Northwestern University, Bryn Mawr University, MIT and Alabama State University."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "NodeJS",
+        "level": "82%"
       },
       {
-        "name":"PHP",
-        "level":"55%"
+        "name": "VueJs",
+        "level": "55%"
       },
       {
-        "name":"Vanilla JavaScript",
-        "level":"80%"
+        "name": "ReactJs",
+        "level": "88%"
       },
       {
-        "name":"C++",
-        "level":"60%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"Java",
-        "level":"60%"
-    },
-    {
-      "name":"Visual Basic",
-      "level":"70%"
-    }
+        "name": "PHP",
+        "level": "55%"
+      },
+      {
+        "name": "Vanilla JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Visual Basic",
+        "level": "70%"
+      }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Genuine Fake",
-        "category":"Python testing module",
-        "image":"03.jpg",
-        "url":"https://pypi.org/project/Genuine-fake/"
+        "title": "Genuine Fake",
+        "category": "Python testing module",
+        "image": "03.jpg",
+        "url": "https://pypi.org/project/Genuine-fake/"
       },
       {
-        "title":"Pycountry code",
-        "category":"Python module for getting any country's telephone code",
-        "image":"01.jpg",
-        "url":"https://pypi.org/project/pycountrycode/"
+        "title": "Pycountry code",
+        "category": "Python module for getting any country's telephone code",
+        "image": "01.jpg",
+        "url": "https://pypi.org/project/pycountrycode/"
       },
       {
-        "title":"Patient Information Management System",
-        "category":"Website I built for managing patient data",
-        "image":"healthcare.jpg",
-        "url":"http://prohealthnet.herokuapp.com/accounts/login/?next=/HealthNet/"
+        "title": "Patient Information Management System",
+        "category": "Website I built for managing patient data",
+        "image": "healthcare.jpg",
+        "url": "http://prohealthnet.herokuapp.com/accounts/login/?next=/HealthNet/"
       },
       {
-        "title":"Coach Ticket Booking System",
-        "category":"NodeJS based Conversational AI",
-        "image":"busbud.webp",
-        "url":"https://t.me/ExtraCityBot"
+        "title": "Coach Ticket Booking System",
+        "category": "NodeJS based Conversational AI",
+        "image": "busbud.webp",
+        "url": "https://t.me/ExtraCityBot"
       },
       {
-        "title":"Victoria Falls Mascot",
-        "category":"A Dashboard for the City of Victoria Falls to manage the data coming through the Medical centered Conversational AI I built",
-        "image":"dashboard.webp",
-        "url":"https://vicfallsmascot.netlify.app/"
+        "title": "Victoria Falls Mascot",
+        "category": "A Dashboard for the City of Victoria Falls to manage the data coming through the Medical centered Conversational AI I built",
+        "image": "dashboard.webp",
+        "url": "https://vicfallsmascot.netlify.app/"
       },
       {
-        "title":"Extracity Luxury Coaches",
-        "category":"Admin Dashboard for a bus company",
-        "image":"chatbots.png",
-        "url":"https://extracityluxury.co.zw/"
+        "title": "Extracity Luxury Coaches",
+        "category": "Admin Dashboard for a bus company",
+        "image": "chatbots.png",
+        "url": "https://extracityluxury.co.zw/"
       },
       {
-        "title":"Virtual Assistant Pharmacist",
-        "category":"Medical Conversational AI that got me a Distinction in my college software project.",
-        "image":"pharmacist.jpg",
-        "url":"https://t.me/virtual_pharmacist_bot"
+        "title": "Virtual Assistant Pharmacist",
+        "category": "Medical Conversational AI that got me a Distinction in my college software project.",
+        "image": "pharmacist.jpg",
+        "url": "https://t.me/virtual_pharmacist_bot"
       },
       {
-        "title":"Dream Catcher",
-        "category":"Website Diary to capture and store all my dreams",
-        "image":"dream_catcher.jpg",
-        "url":"https://github.com/xeroxzen/dream-catcher"
+        "title": "Dream Catcher",
+        "category": "Website Diary to capture and store all my dreams",
+        "image": "dream_catcher.jpg",
+        "url": "https://github.com/xeroxzen/dream-catcher"
       }
     ]
   }

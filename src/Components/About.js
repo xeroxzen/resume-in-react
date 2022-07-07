@@ -6,14 +6,14 @@ class About extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const profilepic = "images/" + this.props.data.image;
+    const profilePic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const city = this.props.data.address.city;
     const country = this.props.data.address.country;
     const phone = this.props.data.phone;
     const whatsapp = this.props.data.whatsapp;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
+    const resumeDownload = this.props.data.resumeDownload;
 
     return (
       <section id="about">
@@ -22,7 +22,7 @@ class About extends Component {
             <div className="three columns">
               <img
                 className="profile-pic"
-                src={profilepic}
+                src={profilePic}
                 alt="Google Jr Profile Pic"
               />
             </div>
@@ -40,7 +40,7 @@ class About extends Component {
                       {city}, {country}
                     </span>
                     <br />
-                    <span>{phone}</span>
+                    <span>{phone} (Calls)</span>
                     <br />
                     <span>{whatsapp} (WhatsApp)</span>
                     <br />
