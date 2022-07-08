@@ -5,14 +5,6 @@ class Footer extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const name = this.props.data.name;
-    const city = this.props.data.address.city;
-    const country = this.props.data.address.country;
-    const email = this.props.data.email;
-    const phone = this.props.data.phone;
-    const whatsapp = this.props.data.whatsapp;
-    const message = this.props.data.contactMessage;
-
     const networks = this.props.data.social.map(function (network) {
       return (
         <li key={network.name}>
