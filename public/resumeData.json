@@ -66,8 +66,8 @@
         "feedback": "You wrote good code on the Dabane project 🔥👍🏻 Good come back there"
       },
       {
-        "client": "Emzini we Code",
-        "feedback": "Great engineering"
+        "client": "Smart Accommodation Finder",
+        "feedback": "A piece of code you wrote when you were defining the Place schema helped me solve a very big problem I was encountering when I was doing my project. So thanks mate. You helped me a ton. I hope you see just how awesome and talented you are at the stuff you do. Never forget that."
       }
     ],
     "work": [
@@ -114,14 +114,6 @@
         "level": "88%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "PHP",
-        "level": "55%"
-      },
-      {
         "name": "Vanilla JavaScript",
         "level": "80%"
       },
@@ -132,10 +124,6 @@
       {
         "name": "Java",
         "level": "60%"
-      },
-      {
-        "name": "Visual Basic",
-        "level": "70%"
       }
     ]
   },
