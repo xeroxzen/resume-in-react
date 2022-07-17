@@ -6,11 +6,11 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const project = this.props.data.project;
+    // const project = this.props.data.project;
     const github = this.props.data.github;
+    const medium = this.props.data.medium;
     const name = this.props.data.name;
     const description = this.props.data.description;
-
     return (
       <header id="home">
         <ParticlesBg type="lines" bg={true} />
@@ -72,10 +72,20 @@ class Header extends Component {
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a href={project} className="button btn project-btn">
-                  <i className="fa fa-book"></i>Project
+                <a
+                  href={medium}
+                  className="button btn project-btn"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <i className="fa fa-book"></i>Medium
                 </a>
-                <a href={github} className="button btn github-btn">
+                <a
+                  href={github}
+                  className="button btn github-btn"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <i className="fa fa-github"></i>Github
                 </a>
               </ul>
