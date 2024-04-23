@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Andile Jaden Mbele",
-    "description": "First and foremost I am a problem solver. I am a self-starter and a self-driven software engineer. I hope to some day build my own start-up to solve some of Africa's and World's most pertinent problems spanning healthcare, food security, energy distribution, finance and social inequality.",
-    "image": "andile-jaden.jpg",
-    "bio": "Programmer | Software Engineer | Geek | Ambivert | Researcher | Non-Linear Thinker | Health & Fitness Fanatic | I love engineering, code and rockets.",
+    "description": "I am a dedicated problem solver with a proactive mindset, fueling my passion as a self-driven software engineer. My ultimate goal is to establish a groundbreaking startup aimed at addressing some of the most pressing challenges in Africa and worldwide. My vision encompasses a comprehensive approach, spanning critical areas such as healthcare, food security, energy distribution, finance, and social inequality. As a relentless self-starter, I am committed to leveraging my skills to contribute innovative solutions that have a meaningful and lasting impact on the world.",
+    "image": "IMG_0749.jpeg",
+    "bio": "Programmer | Software Engineer | Geek | Ambivert | Researcher | Non-Linear Thinker | Health & Fitness Fanatic | I love code, coffee, data, engineering and rockets.",
     "contactMessage": "Hello there, please feel to get in touch.",
     "email": "andilembele020@gmail.com",
     "phone": "+263 71 618 9728",
@@ -11,12 +11,14 @@
     "github": "https://github.com/xeroxzen/",
     "project": "https://github.com/xeroxzen/",
     "medium": "https://medium.com/@andilembele",
+    "X": "https://x.com/@andilejaden",
+    "Newsletter": "https://rooibosadar.com/",
     "address": {
       "city": "Bulawayo",
       "country": "Zimbabwe"
     },
     "website": "https://medium.com/@andilembele",
-    "resumeDownload": "https://docs.google.com/document/d/1LhanuvmZ_qzxIU4mVL3xMcLLLqkzD94Q/edit?usp=sharing&ouid=113681453149468387401&rtpof=true&sd=true", 
+    "resumeDownload": "https://docs.google.com/document/d/1d387PIyBUEc_Ii0ZjrqQ7SpBqGjJTQs7/edit?usp=sharing&ouid=113681453149468387401&rtpof=true&sd=true",
     "social": [
       {
         "name": "facebook",
@@ -73,6 +75,12 @@
     ],
     "work": [
       {
+        "company": "Rooibos Radar",
+        "title": "Co-Founder & Writer",
+        "years": "November 2023 - Present",
+        "description": "Rooibos Radar, led by Andile and Minolta, is a newsletter that journeys the reader through the vibrant landscape of African innovation, where technology is more than a buzzword but a tool for transformative change."
+      },
+      {
         "company": "Prescient Global Risk  Management",
         "title": "Data Engineer",
         "years": "September 2022 - Present",
@@ -88,7 +96,7 @@
         "company": "Dryback Technology",
         "title": "Fullstack Software Developer ",
         "years": "May 2022 - June 2022",
-        "description": "I was brought on board as a fullstack developer to work on the extension of a Django Rest API for one of Zimbabwe's biggest medical AID companies, MASCA. I applied my expertise in the development of the four frontend applications for MASCA. My day-to-day tasks involved writing code for the several applications in development, I also wrote documentation and application architecture."
+        "description": "I was brought on board as a fullstack developer to work on the extension of a Django Rest API for one of Zimbabwe's biggest medical AID companies. I applied my expertise in the development of the four frontend applications for the medical aid. My day-to-day tasks involved writing code for the several applications in development, I also wrote documentation and application architecture."
       },
       {
         "company": "First Source Technology",
