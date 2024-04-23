@@ -124,7 +124,6 @@ header .scrolldown a {
   width: 42px;
   font-size: 42px;
   line-height: 42px;
-  color: #fff;
   border-radius: 100%;
 
   -webkit-transition: all 0.3s ease-in-out;
@@ -858,7 +857,6 @@ call-to-action .button {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  *display: inline;
 }
 .flex-control-paging li a {
   width: 12px;
